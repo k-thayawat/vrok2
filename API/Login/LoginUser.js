@@ -19,9 +19,9 @@ const config = {
     }
   };
 
-app.get('/API/Login', (req,res)=> {
-    res.send(config);
-    });
+// app.get('/API/Login', (req,res)=> {
+//     res.send(config);
+//     });
 app.get('/API/Login', (req, res) => {
     const request = new Request(
         `select top 1 
