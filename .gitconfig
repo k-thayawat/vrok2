@@ -1,0 +1,5 @@
+[credential]
+	helper = /home/user/.bas-git/bas-git-helper-init.sh
+[user]
+	email = wwarut@netizen.co.th
+	name = Warut Warotpaiboon

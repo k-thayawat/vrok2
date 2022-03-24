@@ -1,0 +1,30 @@
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "Activating the 'vscode-wing-cap-run' extension...",
+  "time": "2022-03-24T06:11:42.494Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "The \"vscode-wing-cap-run\" extension is now active.",
+  "time": "2022-03-24T06:11:43.601Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "The extension SAPSE.vscode-wing-cap-guided-development found and is about to be activated",
+  "time": "2022-03-24T06:11:43.601Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "The extension SAPSE.vscode-wing-cap-guided-development has been activated",
+  "time": "2022-03-24T06:11:44.919Z"
+}
+{
+  "label": "vscode-wing-cap-run",
+  "level": "warn",
+  "message": "Language Client of CDS LSP is ready.",
+  "time": "2022-03-24T06:11:44.919Z"
+}
