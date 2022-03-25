@@ -3,8 +3,6 @@ const express = require('express');
 const Joi = require('joi'); //used for validation
 const app = express();
 app.use(express.json());
-//Test git push
-
 const config = {
     authentication: {
       options: {
