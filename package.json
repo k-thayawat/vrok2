@@ -6,8 +6,10 @@
   "dependencies": {
     "@azure/cognitiveservices-customvision-prediction": "^5.1.2",
     "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "axios": "^0.26.1",
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
+    "expree": "^0.1.6",
     "express": "^4.17.3",
     "express-myconnection": "^1.0.4",
     "express-session": "^1.17.2",
@@ -18,11 +20,12 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15",
     "path": "^0.12.7",
+    "sap-cf-axios": "^0.2.36",
     "tedious": "^14.3.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
