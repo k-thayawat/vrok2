@@ -1,6 +1,5 @@
 const express = require("expree");
 const axios = require("axios");
-//kantest
 const app = express();
 const PORT = process.env.PORT || 5000;
 
